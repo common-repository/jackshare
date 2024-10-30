@@ -1,0 +1,308 @@
+/******************************************
+
+███████╗████████╗██╗   ██╗██╗     ███████╗
+██╔════╝╚══██╔══╝╚██╗ ██╔╝██║     ██╔════╝
+███████╗   ██║    ╚████╔╝ ██║     █████╗
+╚════██║   ██║     ╚██╔╝  ██║     ██╔══╝
+███████║   ██║      ██║   ███████╗███████╗
+╚══════╝   ╚═╝      ╚═╝   ╚══════╝╚══════╝
+
+******************************************/
+
+	.jackshare-message,
+	.jackshare-message p {
+	    position: relative;
+	    display: inline-block;
+	    font-size: 15px;
+	    font-weight: bold;
+	    color: #a7a7a7;
+	    margin-right: 5px;
+	}
+
+	.jackshare-sharing.square ul li a.jackshare-link {
+		border-radius: 0px;
+	}
+
+	.jackshare-sharing.radius ul li a.jackshare-link {
+		border-radius: 6px;
+	}
+
+	.jackshare-sharing.rounded ul li a.jackshare-link {
+		border-radius: 60px;
+	}
+
+
+	.jackshare-sharing {
+		display: inline-block;
+	}
+
+		.jackshare-sharing ul li {
+			display: inline-block;
+			list-style-type: none;
+			margin-bottom: 10px;
+			line-height: 1;
+		}
+
+			.jackshare-sharing ul li a.jackshare-link {
+			    background: transparent;
+			    padding: 8px;
+			    margin-right: 4px;
+			    font-size: 15px;
+			    box-shadow: none;
+			    -webkit-box-shadow: none;
+			}
+
+				.jackshare-sharing ul li a.jackshare-link:hover,
+				.jackshare-sharing ul li a.jackshare-link:focus,
+				.jackshare-sharing ul li a.jackshare-link:active,
+				.jackshare-sharing ul li a.jackshare-link:visited {
+					box-shadow: none;
+					-webkit-box-shadow: none;
+					outline: none;
+				}
+
+				.jackshare-sharing ul li a.jackshare-link {
+					border: 2px solid;
+					transition: all 350ms cubic-bezier(1, 1.24, 1, 1);
+				}
+
+					.jackshare-sharing.transparent ul li a.jackshare-link.facebook {
+						color: #3b5998;
+						border-color: #3b5998;
+					}
+
+						.jackshare-sharing.transparent ul li a.jackshare-link.facebook:hover {
+							background: #3b5998;
+						    border-color: #3b5998;
+						    color: #fff;
+						}
+
+					.jackshare-sharing.transparent ul li a.jackshare-link.messenger {
+						color: #0084ff;
+						border-color: #0084ff;
+					}
+
+						.jackshare-sharing.transparent ul li a.jackshare-link.messenger:hover {
+							background: #0084ff;
+							border-color: #0084ff;
+							color: #fff;
+						}	
+
+					.jackshare-sharing.colored ul li a.jackshare-link.facebook {
+						color: #fff;
+						border-color: #3b5998;
+						background: #3b5998;
+					}
+
+						.jackshare-sharing.colored ul li a.jackshare-link.facebook:hover {
+							background: transparent;
+						    border-color: #3b5998;
+						    color: #3b5998;
+						}
+
+					.jackshare-sharing.colored ul li a.jackshare-link.messenger {
+						color: #fff;
+						border-color: #0084ff;
+						background: #0084ff;
+					}
+
+						.jackshare-sharing.colored ul li a.jackshare-link.messenger:hover {
+							background: transparent;
+						    border-color: #0084ff;
+						    color: #0084ff;
+						}
+
+					.jackshare-sharing.transparent ul li a.jackshare-link.twitter {
+						color: #00aced;
+						border-color: #00aced;
+					}
+
+						.jackshare-sharing.transparent ul li a.jackshare-link.twitter:hover {
+							background: #00aced;
+						    border-color: #00aced;
+						    color: #fff;
+						}
+
+					.jackshare-sharing.colored ul li a.jackshare-link.twitter {
+						color: #fff;
+						border-color: #00aced;
+						background: #00aced;
+					}
+
+						.jackshare-sharing.colored ul li a.jackshare-link.twitter:hover {
+							background: transparent;
+						    border-color: #00aced;
+						    color: #00aced;
+						}
+
+					.jackshare-sharing.colored ul li a.jackshare-link.google-plus {
+						background: #d34836;
+						border-color: #d34836;
+						color: #fff;
+					}
+
+						.jackshare-sharing.colored ul li a.jackshare-link.google-plus:hover {
+							background: transparent;
+						    border-color: #d34836;
+						    color: #d34836;
+						}
+
+					.jackshare-sharing.transparent ul li a.jackshare-link.pinterest {
+						border-color: #c92228;
+						color: #c92228;
+					}
+
+						.jackshare-sharing.transparent ul li a.jackshare-link.pinterest:hover {
+							background: #c92228;
+						    border-color: #c92228;
+						    color: #fff;
+						}
+
+					.jackshare-sharing.colored ul li a.jackshare-link.pinterest {
+						background: #c92228;
+						color: #fff;
+						border-color: #c92228;
+					}
+
+						.jackshare-sharing.colored ul li a.jackshare-link.pinterest:hover {
+							background: transparent;
+						    border-color: #c92228;
+						    color: #c92228;
+						}
+
+					.jackshare-sharing.transparent ul li a.jackshare-link.linkedin {
+						color: #0077b5;
+						border-color: #0077b5;
+					}
+
+						.jackshare-sharing.transparent ul li a.jackshare-link.linkedin:hover {
+							background: #0077b5;
+						    border-color: #0077b5;
+						    color: #fff;
+						}
+
+					.jackshare-sharing.colored ul li a.jackshare-link.linkedin {
+						background: #0077b5;
+						color: #fff;
+						border-color: #0077b5;
+					}
+
+						.jackshare-sharing.colored ul li a.jackshare-link.linkedin:hover {
+							background: transparent;
+						    border-color: #0077b5;
+						    color: #0077b5;
+						}
+
+					.jackshare-sharing.transparent ul li a.jackshare-link.viber {
+						color: #665cac;
+						border-color: #665cac;
+					}
+
+						.jackshare-sharing.transparent ul li a.jackshare-link.viber:hover {
+							background: #665cac;
+						    border-color: #665cac;
+						    color: #fff;
+						}
+
+					.jackshare-sharing.colored ul li a.jackshare-link.viber {
+						background: #665cac;
+						color: #fff;
+						border-color: #665cac;
+					}
+
+						.jackshare-sharing.colored ul li a.jackshare-link.viber:hover {
+							background: transparent;
+						    border-color: #665cac;
+						    color: #665cac;
+						}
+
+					.jackshare-sharing.transparent ul li a.jackshare-link.whatsapp {
+						color: #00E676;
+						border-color: #00E676;
+					}
+
+						.jackshare-sharing.transparent ul li a.jackshare-link.whatsapp:hover {
+							background: #00E676;
+						    border-color: #00E676;
+						    color: #fff;
+						}
+
+					.jackshare-sharing.colored ul li a.jackshare-link.whatsapp {
+						background: #00E676;
+						color: #fff;
+						border-color: #00E676;
+					}
+
+						.jackshare-sharing.colored ul li a.jackshare-link.whatsapp:hover {
+							background: transparent;
+						    border-color: #00E676;
+						    color: #00E676;
+						}
+
+					
+
+	.jackshare-sharing li:before,
+	a.jackshare-link:before  {
+	    display: none!important;
+	}
+
+	.jackshare-sharing ul {
+	    padding-left: 0!important;
+	    padding-right: 0!important;
+		margin-bottom: 0!important;
+	}
+
+	span.share-number {
+	    font-family: 'Roboto', sans-serif!important;
+	    font-size: 42px!important;
+	    font-weight: 900!important;
+	    color: #212121!important;
+	    display: block!important;
+	    line-height: 1!important;
+	    text-align: center!important;
+	}
+
+	.jackshare-container {
+	    margin-bottom: 20px;
+	}
+
+	.jackshare-message {
+	    line-height: 1;
+	    vertical-align: middle;
+	    text-align: center;
+        margin-bottom: 0.5rem;
+	}
+
+	.jackshare-message p {
+		margin-bottom: 0!important;
+	    font-weight: 300!important;
+	    font-size: 14px!important;
+	    color: #afafaf!important;
+	}
+
+	.jackshare-container .jackshare-sharing ul {
+		margin-left: 0;
+	}
+
+	.jackshare-container .jackshare-sharing ul li {
+	    padding-left: 0;
+	    padding-bottom: 5px;
+	}
+
+	.jackshare-sharing ul li a.jackshare-link:hover {
+		text-decoration: none;
+	}
+
+	@media screen and (max-width: 1023px) {
+		.j_title {
+			display: none;
+		}
+	}
+
+	@media screen and (min-width: 1024px) {
+		.j_title {
+			display: inline-block;
+			margin-left: 5px;
+		}
+	}
+

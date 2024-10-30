@@ -1,0 +1,256 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-08-20 21:40+0300\n"
+"PO-Revision-Date: 2018-01-07 01:38+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: ;__;_e;esc_attr_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/jackshare-admin-page.php:24
+msgid "Jackshare Options"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:37
+msgid "Choose from the basic menu"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:48 inc/jackshare-admin-page.php:51
+msgid "Positioning"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:53 inc/jackshare-functions.php:53
+msgid "Before Content"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:54 inc/jackshare-functions.php:54
+msgid "After Content"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:77 inc/jackshare-admin-page.php:80
+msgid "Style of buttons"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:82 inc/jackshare-functions.php:66
+msgid "Rounded"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:83 inc/jackshare-functions.php:67
+msgid "Radius"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:84 inc/jackshare-functions.php:68
+msgid "Square"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:107 inc/jackshare-admin-page.php:110
+msgid "Color Template"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:112 inc/jackshare-functions.php:90
+msgid "Transparent"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:113 inc/jackshare-functions.php:91
+msgid "Colored"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:136 inc/jackshare-admin-page.php:139
+msgid "Display names"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:141
+msgid "Enable Social media names on buttons"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:147 inc/jackshare-admin-page.php:150
+msgid "Display Social media"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:152
+msgid "Facebook"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:155
+msgid "Send in Messenger"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:158
+msgid "Twitter"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:161
+msgid "Google+"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:164
+msgid "Pinterest"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:167
+msgid "Linkedin"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:173 inc/jackshare-admin-page.php:176
+msgid "Facebook Settings"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:178
+msgid "Enable Facebook Meta Tags On Header"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:180
+msgid "(PLEASE IGNORE THIS OPTION IF YOU ARE USING A SEO PLUGIN ALREADY!)"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:182 inc/jackshare-admin-page.php:196
+msgid "e.g"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:183
+msgid "Αdd your Facebook app_id here to display the shared links properly"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:184
+#, php-format
+msgid ""
+"(Follow <a href=\"%s\" target=\"_blank\">this link</a> to find instructions "
+"on how to setup your own app_id. If you are already familiar with this "
+"process connect to <a href=\"%s\" target=\"_blank\">Facebook for developers</"
+"a>.)"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:192 inc/jackshare-admin-page.php:195
+msgid "Twitter Settings"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:197
+msgid "Insert your Twitter username to display when a link will be shared"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:198
+msgid ""
+"(Insert only your username without @ or the whole link to your twitter "
+"profile.)"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:207
+msgid "Save Options"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:227
+msgid "Thanks for using my plugin!"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:230
+msgid ""
+"Hi there! I just wanna says thanks for using my plugin. I hope you like it "
+"as much as I do."
+msgstr ""
+
+#: inc/jackshare-admin-page.php:231
+msgid "My name is "
+msgstr ""
+
+#: inc/jackshare-admin-page.php:231
+msgid "Iakovos Frountas"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:232
+msgid "How to say thanks?"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:233
+msgid "There are serveral ways for you to show your appreciation:"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:235
+#, php-format
+msgid ""
+"Give it a nice review over at the <a href=\"%s\" target=\"_blank\">WordPress "
+"Plugin Directory</a>"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:236
+msgid "Post a nice tweet or make a nice blog post about the plugin"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:238
+msgid "Support"
+msgstr ""
+
+#: inc/jackshare-admin-page.php:239
+#, php-format
+msgid ""
+"Please see the <a href=\"%s\" target=\"_blank\">support forum</a> for help."
+msgstr ""
+
+#: inc/jackshare-admin-page.php:240
+msgid ""
+"Also use support form to suggest me improvements in order to make this "
+"plugin even better."
+msgstr ""
+
+#: inc/jackshare-functions.php:124
+msgid "Share this:"
+msgstr ""
+
+#: inc/jackshare-functions.php:127
+msgid " Facebook"
+msgstr ""
+
+#: inc/jackshare-functions.php:128
+msgid " Send a message"
+msgstr ""
+
+#: inc/jackshare-functions.php:129
+msgid " Twitter"
+msgstr ""
+
+#: inc/jackshare-functions.php:130
+msgid " Google+"
+msgstr ""
+
+#: inc/jackshare-functions.php:131
+msgid " Pin it!"
+msgstr ""
+
+#: inc/jackshare-functions.php:132
+msgid " Linkedin"
+msgstr ""
+
+#: inc/jackshare-functions.php:135
+msgid "Share this on Facebook"
+msgstr ""
+
+#: inc/jackshare-functions.php:136
+msgid "Send a message"
+msgstr ""
+
+#: inc/jackshare-functions.php:137
+msgid "Share this on Twitter"
+msgstr ""
+
+#: inc/jackshare-functions.php:138
+msgid "Share this on Google+"
+msgstr ""
+
+#: inc/jackshare-functions.php:139
+msgid "Pin this!"
+msgstr ""
+
+#: inc/jackshare-functions.php:140
+msgid "Share this on Linkedin"
+msgstr ""
+
+#~ msgid " Facebok"
+#~ msgstr " Facebok"

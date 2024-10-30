@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jackshare Social Sharing\n"
+"POT-Creation-Date: 2019-01-29 00:56+0200\n"
+"PO-Revision-Date: 2019-01-29 01:01+0200\n"
+"Last-Translator: \n"
+"Language-Team: Iakovos Frountas\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;esc_attr__;__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/class-jackshare-admin-page.php:39 inc/class-jackshare-admin-page.php:119
+msgid "Basic"
+msgstr "Βασικές Ρυθμίσεις"
+
+#: inc/class-jackshare-admin-page.php:43 inc/class-jackshare-admin-page.php:269
+msgid "Facebook settings"
+msgstr "Ρυθμίσεις για το Facebook"
+
+#: inc/class-jackshare-admin-page.php:47 inc/class-jackshare-admin-page.php:379
+msgid "Twitter settings"
+msgstr "Ρυθμίσεις για το Twitter"
+
+#: inc/class-jackshare-admin-page.php:59
+msgid "Jackshare Options"
+msgstr "Επιλογές του Jackshare"
+
+#: inc/class-jackshare-admin-page.php:98
+msgid "This section contains basic options for Jackshare Social Sharing plugin"
+msgstr "Βασικές ρυθμίσεις για το Jackshare Social Sharing"
+
+#: inc/class-jackshare-admin-page.php:105
+msgid "This section contains options for Facebook Sharing."
+msgstr "Ρυθμίσεις που αφορούν το Facebook."
+
+#: inc/class-jackshare-admin-page.php:112
+msgid "This section contains options for Twitter."
+msgstr "Ρυθμίσεις που αφορούν το Twitter."
+
+#: inc/class-jackshare-admin-page.php:128
+msgid "Positioning"
+msgstr "Θέση"
+
+#: inc/class-jackshare-admin-page.php:136
+msgid "Style of buttons"
+msgstr "Εμφάνιση των κουμπιών ως"
+
+#: inc/class-jackshare-admin-page.php:144
+msgid "Color Template"
+msgstr "Χρωματική Επιλογή"
+
+#: inc/class-jackshare-admin-page.php:152
+msgid "Display names"
+msgstr "Εμφάνιση ονομάτων"
+
+#: inc/class-jackshare-admin-page.php:160
+msgid "Display Social media"
+msgstr "Εμφάνιση Social Media"
+
+#: inc/class-jackshare-admin-page.php:175
+msgid "Before Content"
+msgstr "Πριν το περιεχόμενο"
+
+#: inc/class-jackshare-admin-page.php:176
+msgid "After Content"
+msgstr "Μετά το περιεχόμενο"
+
+#: inc/class-jackshare-admin-page.php:189
+msgid "Rounded"
+msgstr "Στρογγυλά"
+
+#: inc/class-jackshare-admin-page.php:190
+msgid "Radius"
+msgstr "Στρογγυλεμένα στις γωνίες"
+
+#: inc/class-jackshare-admin-page.php:191
+msgid "Square"
+msgstr "Τετράγωνα"
+
+#: inc/class-jackshare-admin-page.php:205
+msgid "Transparent"
+msgstr "Διαφανής"
+
+#: inc/class-jackshare-admin-page.php:206
+msgid "Colored"
+msgstr "Με χρώμα"
+
+#: inc/class-jackshare-admin-page.php:220
+msgid "Enable Social media names on buttons"
+msgstr "Ενεργοποίηση ονόματος για κάθε Social media"
+
+#: inc/class-jackshare-admin-page.php:239 inc/class-jackshare-functions.php:126
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/class-jackshare-admin-page.php:242
+msgid "Send in Messenger"
+msgstr "Στείλτο στο Μessenger"
+
+#: inc/class-jackshare-admin-page.php:245 inc/class-jackshare-functions.php:128
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/class-jackshare-admin-page.php:248 inc/class-jackshare-functions.php:129
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/class-jackshare-admin-page.php:251
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/class-jackshare-admin-page.php:254 inc/class-jackshare-functions.php:131
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/class-jackshare-admin-page.php:257 inc/class-jackshare-functions.php:132
+msgid "Viber"
+msgstr "Viber"
+
+#: inc/class-jackshare-admin-page.php:260 inc/class-jackshare-functions.php:133
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: inc/class-jackshare-admin-page.php:278
+msgid "Display Counter"
+msgstr "Εμφάνιση Μετρητή"
+
+#: inc/class-jackshare-admin-page.php:286
+msgid "Open Graph Meta Tags"
+msgstr "Open Graph Meta Tags"
+
+#: inc/class-jackshare-admin-page.php:294
+msgid "Facebook App Setup"
+msgstr "Εγκατάσταση Facebook App"
+
+#: inc/class-jackshare-admin-page.php:302
+msgid "Cache Request for"
+msgstr "Καθάρισε την Cache κάθε"
+
+#: inc/class-jackshare-admin-page.php:319
+msgid "Enable Share counter"
+msgstr "Ενεργοποίηση Μετρητή Κοινοποιήσεων"
+
+#: inc/class-jackshare-admin-page.php:322
+msgid "Enable Reaction counter"
+msgstr "Ενεργοποίηση Μετρητή Αντιδράσεων"
+
+#: inc/class-jackshare-admin-page.php:325
+msgid "Enable Comment counter"
+msgstr "Ενεργοποίηση Μετρητή Σχολίων"
+
+#: inc/class-jackshare-admin-page.php:327
+msgid "(MULTIPLE SELECTION SUM THE SELECTED COUNTERS)"
+msgstr "(ΠΟΛΛΑΠΛΗ ΕΠΙΛΟΓΗ ΘΑ ΠΡΟΣΘΕΤΕΙ ΤΑ ΝΟΥΜΕΡΑ ΑΠΟ ΤΟΥΣ ΜΕΤΡΗΤΕΣ)"
+
+#: inc/class-jackshare-admin-page.php:339
+msgid "Enable Facebook Meta Tags On Header"
+msgstr "Ενεργοποίηση Facebook Meta Tags στην κεφαλίδα της σελίδας"
+
+#: inc/class-jackshare-admin-page.php:341
+msgid "(PLEASE IGNORE THIS OPTION IF YOU ARE USING A SEO PLUGIN ALREADY!)"
+msgstr ""
+"(ΠΑΡΑΚΑΛΩ ΑΓΝΟΗΣΤΕ ΑΥΤΗ ΤΗΝ ΕΠΙΛΟΓΗ ΑΝ ΧΡΗΣΙΜΟΠΟΙΕΙΤΕ ΗΔΗ KAΠΟΙΟ PLUGIN ΓΙΑ "
+"SEO)"
+
+#: inc/class-jackshare-admin-page.php:351
+#: inc/class-jackshare-admin-page.php:354
+#: inc/class-jackshare-admin-page.php:401
+msgid "e.g"
+msgstr "π.χ"
+
+#: inc/class-jackshare-admin-page.php:352
+msgid "Αdd your Facebook app_id here to display the shared links properly"
+msgstr ""
+"Εισάγετε το Facebook app_id σας εδώ για να εμφανίζονται οι σύνδεσμοι που θα "
+"κοινοποιείτε κανονικά"
+
+#: inc/class-jackshare-admin-page.php:355
+msgid "Αdd your Facebook app_secret here to display the shared links properly"
+msgstr ""
+"Εισάγετε το Facebook app_secret σας εδώ για να εμφανίζονται οι σύνδεσμοι που "
+"θα κοινοποιείτε κανονικά"
+
+#: inc/class-jackshare-admin-page.php:356
+#, php-format
+msgid ""
+"(Follow <a href=\"%s\" target=\"_blank\">this link</a> to find instructions "
+"on how to setup your own app_id. If you are already familiar with this "
+"process connect to <a href=\"%s\" target=\"_blank\">Facebook for developers</"
+"a>.)"
+msgstr ""
+"(Ακολουθήστε <a href=\"%s\" target=\"_blank\">αυτό το σύνδεσμο</a> για να "
+"βρείτε οδηγίες σχετικά με το πως θα δημιουργήσετε το δικό σας app_id. Εάν "
+"είστε ήδη εξοικειωμένος με αυτή τη διαδικασία παρακαλώ πηγαίνετε στο <a href="
+"\"%s\" target=\"_blank\">Facebook για προγραμματιστές</a>.)"
+
+#: inc/class-jackshare-admin-page.php:367
+msgid "30 Minutes"
+msgstr "30 Λεπτά"
+
+#: inc/class-jackshare-admin-page.php:368
+msgid "1 Hour"
+msgstr "1 Ώρα"
+
+#: inc/class-jackshare-admin-page.php:369
+msgid "2 Hours"
+msgstr "2 Ώρες"
+
+#: inc/class-jackshare-admin-page.php:388
+msgid "Twitter Username"
+msgstr "Όνομα Χρήστη Twitter"
+
+#: inc/class-jackshare-admin-page.php:402
+msgid "Insert your Twitter username to display when a link will be shared"
+msgstr ""
+"Εισάγετε το όνομα χρήστη που θέλετε να εμφανίζετε όταν κάνετε μια κοινοποίηση"
+
+#: inc/class-jackshare-admin-page.php:403
+msgid ""
+"(Insert only your username without @ or the whole link to your twitter "
+"profile.)"
+msgstr ""
+"(Εισάγετε μόνο το όνομα χρήστη χωρίς το @ ή ολόκληρο το σύνδεσμο προς το "
+"προφίλ σας στο twitter.)"
+
+#: inc/class-jackshare-functions.php:127 inc/class-jackshare-functions.php:141
+msgid "Send a message"
+msgstr "Στείλτο στο Μessenger"
+
+#: inc/class-jackshare-functions.php:130
+msgid "Pin it!"
+msgstr "Pin it!"
+
+#: inc/class-jackshare-functions.php:140
+msgid "Share this on Facebook"
+msgstr "Κοινοποίηση στο Facebook"
+
+#: inc/class-jackshare-functions.php:142
+msgid "Share this on Twitter"
+msgstr "Κοινοποίηση στο Twitter"
+
+#: inc/class-jackshare-functions.php:143
+msgid "Share this on Google+"
+msgstr "Κοινοποίηση στο Google+"
+
+#: inc/class-jackshare-functions.php:144
+msgid "Pin this!"
+msgstr "Καρφίτσωσέ το!"
+
+#: inc/class-jackshare-functions.php:145
+msgid "Share this on Linkedin"
+msgstr "Κοινοποίηση στο Linkedin"
+
+#: inc/class-jackshare-functions.php:146
+msgid "Send this on Viber"
+msgstr "Αποστολή στο Viber"
+
+#: inc/class-jackshare-functions.php:147
+msgid "Send this on WhatsApp"
+msgstr "Αποστολή στο WhatsApp"
+
+#: inc/class-jackshare-functions.php:229
+msgid "Shares"
+msgstr "Κοινοποιήσεις"
+
+#: inc/class-jackshare-functions.php:231
+msgid "Share"
+msgstr "Κοινοποιήση"
+
+#: inc/class-jackshare-functions.php:233
+msgid "Share this"
+msgstr "Κοινοποίηση"

@@ -1,0 +1,40 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/11/2017 19:00
+  	*/
+
+@font-face {
+  font-family: "jackshare-font";
+  src: url("./jackshare-font.eot");
+  src: url("./jackshare-font.eot?#iefix") format("embedded-opentype"),
+       url("./jackshare-font.woff") format("woff"),
+       url("./jackshare-font.ttf") format("truetype"),
+       url("./jackshare-font.svg#jackshare") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "jackshare-font";
+    src: url("./jackshare-font.svg#jackshare") format("svg");
+  }
+}
+
+[class^="jackshare-font-"]:before, [class*=" jackshare-font-"]:before,
+[class^="jackshare-font-"]:after, [class*=" jackshare-font-"]:after {
+    font-family: jackshare-font;
+    font-size: 16px;
+    font-style: normal;
+    vertical-align: middle;
+}
+
+.jackshare-font-bookmark-ribbon:before { content: "\f100"; }
+.jackshare-font-rss-feed-symbol:before { content: "\f101"; }
+.jackshare-font-messenger-1:before { content: "\f102"; }
+.jackshare-font-linkedin-letters:before { content: "\f103"; top: -2px; position: relative; }
+.jackshare-font-google-plus:before { content: "\f104"; }
+.jackshare-font-instagram-logo:before { content: "\f105"; }
+.jackshare-font-pinterest:before { content: "\f106"; }
+.jackshare-font-twitter-logo-silhouette:before { content: "\f107"; }
+.jackshare-font-social:before { content: "\f108"; }
